@@ -2,4 +2,4 @@
 
 ### Current Term ###
 
-* [2017 September](https://github.com/ubccpsc/ssdp/tree/2017sep)
+* [2017 September](https://github.com/ubccpsc/ssdp/blob/2017sep/README.md)
