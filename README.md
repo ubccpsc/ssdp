@@ -55,12 +55,7 @@ Office hours are by appointment. Email me (fritz at cs.ubc.ca to) or get in touc
 | Date | Paper | Presenter |
 | :-- | :-- | :-- |
 | **Sep 6** | Course Intro | Thomas |
-| **Sep 11** | Research in SE | |
-| | [Preliminary guidelines for empirical research in software engineering](http://ieeexplore.ieee.org/document/1027796/?arnumber=1027796&tag=1) Kitchenham et al., IEEE TSE 2002. | Thomas |
-| | [Experimental models for validating technology.](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=675630) Zelkowitz et al., IEEE Computer, 1998. | Thomas |
-| **Sep 13** | Research in SE & Developer Productivity | |
-| | [What makes good research in software engineering?](https://link.springer.com/content/pdf/10.1007%2Fs10009-002-0083-4.pdf) Shaw, Int J STTT 2002. | Thomas |
-| | [Software Developers’ Perceptions of Productivity.](http://www.zora.uzh.ch/id/eprint/98324/1/productivity.pdf) Meyer et al., FSE 2014. | |
+| **Sep 11** | Research in SE </br> [Preliminary guidelines for empirical research in software engineering](http://ieeexplore.ieee.org/document/1027796/?arnumber=1027796&tag=1) Kitchenham et al., IEEE TSE 2002. </br> [Experimental models for validating technology.](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=675630) Zelkowitz et al., IEEE Computer, 1998. | Thomas |
 
 
 
