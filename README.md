@@ -62,7 +62,7 @@ Office hours are by appointment. Email me (fritz at cs.ubc.ca to) or get in touc
 | **Sep 25** | **Eye-Tracking and Developer Support** </br> 1. [EyeDE: Gaze-enhanced Software Development Environments.](http://campar.in.tum.de/pub/gluecker2014eyede/gluecker2014eyede.pdf) Glücker et al., CHI 2014. </br> 2. [Analyzing Individual Performance of Source Code Review Using Reviewers’ Eye Movement.](http://dl.acm.org/citation.cfm?id=1117357) Uwano et al., ETRA 2006. ||
 | **Sep 27** | **Project Proposal** </br> draft due </br> (meetings instead of class) ||
 | **Oct 2** | **Project Proposal Presentations** </br> presentation (5mins + 5mins discussion) </br> final write up of proposal due ||
-| **Oct 4** | **Sensing and Interruptions** </br> 1. 	1. [Interrupt me: External interruptions are less disruptive than self-interruptions.](http://www.jelmerborst.nl/pubs/Katidioti2016.pdf) Katidioti et al., Computers in Human Behavior. ||
+| **Oct 4** | **Sensing and Interruptions** </br> 1. 	[Interrupt me: External interruptions are less disruptive than self-interruptions.](http://www.jelmerborst.nl/pubs/Katidioti2016.pdf) Katidioti et al., Computers in Human Behavior. ||
 | **Oct 9** | **Thanksgiving (holiday)** ||
 | **Oct 11** | **Sensing Code Difficulty** </br> 1. [Learning a Metric for Code Readability.](https://www.cs.virginia.edu/~weimer/p/weimer-tse2010-readability-preprint.pdf) Buse et al., TSE 2008. </br> [Using Bio(Metrics) to Predict Code Quality Online](http://www.merlin.uzh.ch/contributionDocument/download/9186) Müller et al. ICSE 2016. ||
 | **Oct 16** | **Supporting Developers** </br> 1. [Evaluating Cues for Resuming Interrupted Programming Tasks.](http://dmrussell.net/CHI2010/docs/p93.pdf) Parnin et al., CHI 201007.09.17. ||
