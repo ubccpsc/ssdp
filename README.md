@@ -9,6 +9,7 @@ Room: ICCS 246
 ## NEWS
 
 * <span style="color:blue">**first response paper due Sep 10 at 8pm**</span>
+* **sample response papers are online**
 * tentative schedule is listed
 * topic selection for moderation next week
 * registration online is possible
@@ -91,6 +92,13 @@ Office hours are by appointment. Email me (fritz at cs.ubc.ca to) or get in touc
 
 The research project is the primary artifact of the course; the outcome of all projects will be a research paper (5 to 10 pages). Depending on the class size, the projects may be completed in groups of up to two. The intent of the project is to identify one or more research questions, investigate them and report the results in a scientific manner.
 
+## Response Papers
+For each class in which we discuss papers, it is expected that you read the paper, write a response paper and hand in the response paper at 8pm the day before (by email). The response paper should be 300 - 500 words long and not more than a page and should cover all papers of the class. As stated in the introduction slides, while the response paper should contain a brief summary of the paper(s) it in not supposed to be just a summary and should capture your perspective, address all readings and draw conntections between them when possible. Some questions to think about when reading a paper and also when writing the response paper are: what are the main contributions of the paper, how does this work move the research forward, what are strengths and weaknesses, what could be improved/extended, how was the work validated, how does this research apply to you or in practice. 
+
+A few sample response files from previous courses (that were slightly different to this course) are provided below:
+* [Response Paper Sample 1](/sampleFiles/responsePaperSample_01.pdf)
+* [Response Paper Sample 2](/sampleFiles/responsePaperSample_02.pdf)
+* [Response Paper Sample 3](/sampleFiles/responsePaperSample_03.pdf)
 
 ## Academic Conduct
 
