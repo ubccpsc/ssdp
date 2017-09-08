@@ -54,7 +54,7 @@ Office hours are by appointment. Email me (fritz at cs.ubc.ca to) or get in touc
 
 | Date | Paper | Presenter |
 | :-- | :-- | :-- |
-| **Sep 6** | Course Intro | Thomas |
+| **Sep 6** | [Course Intro (slides)](/intro_SSDP.pdf) | Thomas |
 | **Sep 11** | **Research in SE** </br> 1. [Preliminary guidelines for empirical research in software engineering](http://ieeexplore.ieee.org/document/1027796/?arnumber=1027796&tag=1) Kitchenham et al., IEEE TSE 2002. </br> 2. [Experimental models for validating technology.](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=675630) Zelkowitz et al., IEEE Computer, 1998. | Thomas |
 | **Sep 13** | **Research in SE & Developer Productivity** </br> 1. [What makes good research in software engineering?](https://link.springer.com/content/pdf/10.1007%2Fs10009-002-0083-4.pdf) Shaw, Int JSTTT 2002. </br> 2.  [Software Developers’ Perceptions of Productivity.](http://www.zora.uzh.ch/id/eprint/98324/1/productivity.pdf) Meyer et al., FSE 2014. | Thomas |
 | **Sep 18** | **Productivity** </br> 1. [Using a defined and measured personal software process.](http://www-public.tem-tsp.eu/~gibson/Teaching/Teaching-ReadingMaterial/Humphrey96.pdf) Humphrey, IEEE Software 1996. </br> 2. [Bored Mondays and Focused Afternoons: The Rhythm of Attention and Online Activity in the Workplace](http://www.ics.uci.edu/~gmark/Home_page/Research_files/Focus%20_1.pdf) Mark et al., CHI 2014 | |
