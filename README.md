@@ -6,6 +6,12 @@ Term 1, Monday and Wednesday 10:30am to 12pm
 
 Room: ICCS 246
 
+## NEWS
+
+* tentative schedule is listed
+* topic selection for moderation next week
+* registration online is possible
+
 ## Overview
 
 Producing great software as fast as the market demands requires great, productive developers. Yet, what does it mean for an individual developer to be productive, and how can we best help developers to be productive? To answer these questions, researchers in software engineering have been, and are still predominantly looking at the output that software developers create, such as the applications, the source code, or the test cases. This output-oriented focus misses one of the most essential parts in the process of software development: the individual developer who creates the software.
