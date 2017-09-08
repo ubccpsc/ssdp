@@ -78,7 +78,7 @@ Office hours are by appointment. Email me (fritz at cs.ubc.ca to) or get in touc
 | **Nov 20** | **Project Presentations** ||
 | **Nov 22** | **Project Presentations** ||
 | **Nov 27** | **Mood and Productivity** </br> 1. [Do moods affect programmers' debug performance?](https://link.springer.com/article/10.1007/s10111-010-0164-1) Khan et al., Cognition, Technology and Work, 2011.||
-
+| **Nov 29** | **PC Meeting** ||
 
 ## Research Project
 
