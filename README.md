@@ -8,6 +8,7 @@ Room: ICCS 246
 
 ## NEWS
 
+* <span style="color:blue">**first response paper due Sep 10 at 8pm**</span>
 * tentative schedule is listed
 * topic selection for moderation next week
 * registration online is possible
