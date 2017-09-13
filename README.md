@@ -89,7 +89,7 @@ Office hours are by appointment. Email me (fritz at cs.ubc.ca to) or get in touc
 | **Nov 29** | **PC Meeting** ||
 
 ## Leading Discussion
-The signup sheet for the moderation can be found [here](https://docs.google.com/spreadsheets/d/1y14wnBWziRI04cflFy3RYsWQbmzub5m76Zs9ZbKoSpU/edit?usp=sharing).
+The signup sheet for the moderation can be found [here](https://docs.google.com/spreadsheets/d/1y14wnBWziRI04cflFy3RYsWQbmzub5m76Zs9ZbKoSpU/edit?usp=sharing)
 
 Everyone in class has to lead the discussion for 2 papers over the course of the term. Each discussion session will be 40 minutes long. This includes a 10 minute introduction to the topic and paper, including some background, and a 30 minutes discussion that should be prepared beforehand and moderated in class. Please provide a brief (on paragraph or bullet list) description of your plan. 
 
