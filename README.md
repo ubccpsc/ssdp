@@ -9,7 +9,7 @@ Room: ICCS 246
 ## NEWS
 
 * <span style="color:blue">**first response paper due Sep 10 at 8pm**</span>
-* **sample response papers are online**
+* [**signup sheet for leading discussions is online**](https://docs.google.com/spreadsheets/d/1y14wnBWziRI04cflFy3RYsWQbmzub5m76Zs9ZbKoSpU/edit?usp=sharing)
 * tentative schedule is listed
 * topic selection for moderation next week
 * registration online is possible
@@ -87,6 +87,12 @@ Office hours are by appointment. Email me (fritz at cs.ubc.ca to) or get in touc
 | **Nov 22** | **Project Presentations** ||
 | **Nov 27** | **Mood and Productivity** </br> 1. [Do moods affect programmers' debug performance?](https://link.springer.com/article/10.1007/s10111-010-0164-1) Khan et al., Cognition, Technology and Work, 2011.||
 | **Nov 29** | **PC Meeting** ||
+
+## Leading Discussion
+The signup sheet for the moderation can be found [here](https://docs.google.com/spreadsheets/d/1y14wnBWziRI04cflFy3RYsWQbmzub5m76Zs9ZbKoSpU/edit?usp=sharing).
+
+Everyone in class has to lead the discussion for 2 papers over the course of the term. Each discussion session will be 40 minutes long. This includes a 10 minute introduction to the topic and paper, including some background, and a 30 minutes discussion that should be prepared beforehand and moderated in class. Please provide a brief (on paragraph or bullet list) description of your plan. 
+
 
 ## Research Project
 
