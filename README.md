@@ -11,6 +11,7 @@ Room: ICCS 246
 * <span style="color:blue">**first response paper due Sep 10 at 8pm**</span>
 * [**signup sheet for leading discussions is online**](https://docs.google.com/spreadsheets/d/1y14wnBWziRI04cflFy3RYsWQbmzub5m76Zs9ZbKoSpU/edit?usp=sharing)
 * **No need to write a response paper for the day you are leading a discussion**
+* [slides](https://events.ccc.de/congress/2004/fahrplan/files/105-machine-learning-paper.pdf) and link to a brief [intro to machine learning are up](/MachineLearningIntro-zueger.pdf)
 * tentative schedule is listed
 * topic selection for moderation next week
 * registration online is possible
