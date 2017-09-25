@@ -100,6 +100,16 @@ Everyone in class has to lead the discussion for 2 papers over the course of the
 
 The research project is the primary artifact of the course; the outcome of all projects will be a research paper (5 to 10 pages). Depending on the class size, the projects may be completed in groups of up to two. The intent of the project is to identify one or more research questions, investigate them and report the results in a scientific manner.
 
+### Project Proposal Draft 
+A one-page proposal for your project to me. The goal is to have something to discuss in the one-on-one meeting. The proposal has to include the problem/motivation for the project, the research question(s) and how you aim to address the research questions(s). This draft is important to be able to discuss the project ideas and help you express your ideas and us to understand what you are trying to do. However, the content and ideas are a lot more important than the formatting.
+
+### Final Project Proposal 
+A one- to two-page proposal for your project. Basically, this will be a revised version of your original draft, including the comments from the meeting and the format is more important.
+
+### Proposal Presentation. 
+A short (5 to 10 mins) presentation of the proposed project to the class. The goal is to share and discuss your ideas with multiple people.
+
+
 ## Response Papers
 For each class in which we discuss papers, it is expected that you read the paper, write a response paper and hand in the response paper at 8pm the day before (by email). The response paper should be 300 - 500 words long and not more than a page and should cover all papers of the class. As stated in the introduction slides, while the response paper should contain a brief summary of the paper(s) it in not supposed to be just a summary and should capture your perspective, address all readings and draw conntections between them when possible. Some questions to think about when reading a paper and also when writing the response paper are: what are the main contributions of the paper, how does this work move the research forward, what are strengths and weaknesses, what could be improved/extended, how was the work validated, how does this research apply to you or in practice. 
 
