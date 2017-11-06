@@ -84,10 +84,12 @@ Office hours are by appointment. Email me (fritz at cs.ubc.ca to) or get in touc
 | **Nov 6** | **Supporting Developers** </br> 1. [Disrupting Developer Productivity One Bot at a Time.](http://alexeyza.com/pdf/fse-var2016.pdf) Storey et al., FSE 2017.  </br>  2. [Calendar.help: Designing a Workflow-Based Scheduling Agent with Humans in the Loop](https://arxiv.org/pdf/1703.08428.pdf) Cranshaw et al., CHI 2017.||
 | **Nov 8** | **Project Meetings** + SCRUM ||
 | **Nov 13** | **Holiday for Remembrance Day** ||
-| **Nov 15** | **Project Meetings** + SCRUM ||
-| **Nov 20** | **Project Presentations** ||
-| **Nov 22** | **Project Presentations** ||
-| **Nov 27** | **Mood and Productivity** </br> 1. [Do moods affect programmers' debug performance?](https://link.springer.com/article/10.1007/s10111-010-0164-1) Khan et al., Cognition, Technology and Work, 2011.||
+| **Nov 15** | **Individual/Team Project Work** ||
+| **Nov 20** | **Mood and Productivity** + SCRUM </br> 1. [Do moods affect programmers' debug performance?](https://link.springer.com/article/10.1007/s10111-010-0164-1) Khan et al., Cognition, Technology and Work, 2011.||
+| **Nov 22** | **Supporting developer's workflow** (Context-Aware Conversational Developer Assistants) ||
+| **Nov 26** | **Project Report due** at 8pm ||
+| **Nov 27** | **Project Presentations** ||
+| **Nov 28** | **Reviews of project reports due** at 8pm ||
 | **Nov 29** | **PC Meeting** ||
 
 ## Leading Discussion
