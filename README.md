@@ -108,9 +108,25 @@ A one-page proposal for your project to me. The goal is to have something to dis
 ### Final Project Proposal 
 A one- to two-page proposal for your project. Basically, this will be a revised version of your original draft, including the comments from the meeting and the format is more important.
 
-### Proposal Presentation. 
+### Proposal Presentation
 A short (5 to 10 mins) presentation of the proposed project to the class. The goal is to share and discuss your ideas with multiple people.
 
+
+### Project Report
+The report includes your research project, the motivation, the research question(s), the related work, your approach and your findings (not necessarily in this order). The required length of the written report varies from project to project but should be between 5 to a maximum of 8 pages (+ additional pages for references); all reports must be formatted according to the [ACM format and submitted as a PDF in ACM paper format (two-column style)](https://www.acm.org/publications/proceedings-template). Use the ACM proceedings template for conferences and make sure it is two-column style.
+
+### Final Presentation
+A presentation of the completed research project to the class. Please make sure to include in your presentation the problem/motivation for your project, your approach and the evaluation/results you have. Obviously, this will vary slightly depending on the project you choose. The goal is to share and discuss your ideas with multiple people. The presentation should be <b>10 to at most 15 minutes</b>. Make sure to practice your presentation, since the delivery is also very important (not just the content).
+
+
+## Peer Reviews 
+To allow you to gain experience in peer review, you have to write a critical review for two project reports of your colleagues. For writing a paper review, please write a review according to the [provided template](http://www.ifi.uzh.ch/dam/jcr:ffffffff-f1e0-1c39-ffff-ffffa665b34d/review_form.txt) for each of the two papers you are assigned to. In addition to your detailed review, you will have to rate the paper from reject to accept and you can also provide additional comments that would usually only go to the program committee and not back to the authors (if you have any).
+
+In the review section, please provide a detailed review of the paper. All paper reviews should start with a short summary of the paper in your own words (not a copy of the abstract) to show that you understand the paper. The next paragraph(s) of the review should contain positive comments on the paper (even if you dislike the paper, you might think that certain aspects or the idea of it are interesting). After that you list the issues that you have with the paper. Make sure to always start out with the most important and high level comments first before going into more detailed comments later on. From your comments/issues it should also be clear why you accepted/rejected the paper. However, even if you accept a paper or weakly accept it, you might have lots of comments/issues on the paper. Some people also write a short bullet list with '+' for the high level positives and '-' for the high level negatives and then elaborate more on each one of them in more detail afterwards.
+
+Remember, a paper review is usually sent back to the author(s), so while you should state your opinion, be as constructive as possible. If you have ever received a review, just reading that someone did not like your paper without concrete ideas on what it was in particular and what you could change for the better, is not helpful.
+
+[Paper Review Form](http://www.ifi.uzh.ch/dam/jcr:ffffffff-f1e0-1c39-ffff-ffffa665b34d/review_form.txt)
 
 ## Response Papers
 For each class in which we discuss papers, it is expected that you read the paper, write a response paper and hand in the response paper at 8pm the day before (by email). The response paper should be 300 - 500 words long and not more than a page and should cover all papers of the class. As stated in the introduction slides, while the response paper should contain a brief summary of the paper(s) it in not supposed to be just a summary and should capture your perspective, address all readings and draw conntections between them when possible. Some questions to think about when reading a paper and also when writing the response paper are: what are the main contributions of the paper, how does this work move the research forward, what are strengths and weaknesses, what could be improved/extended, how was the work validated, how does this research apply to you or in practice. 
